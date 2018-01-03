@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+    <string name="create_label">Create Appointment</string>
+    <string name="view_and_edit">View/Edit Appointments</string>
+    <string name="delete_label">Delete Appointment</string>
+    <string name="move_label">Move Appointment</string>
+    <string name="search_label">Search</string>
+
+    <string name="hintTxtItem">Enter an item here ...</string>
+    <string name="lblBtnAdd">Add Item</string>
+    <string name="noAppointments">No appointments for this date</string>
+    <string name="DeleteChooseLabel">Delete Selected Appointment</string>
+    <string name="ChooseMoveLabel">Move Selected Appointment</string>
+    <string name="move_prompt">Please choose a new date for the appointment and then click OK</string>
+    <string name="ChooseEditLabel">View/Edit Selected Appointment</string>
+
+
+
+
+    <string name="initial_delete_prompt">Would you like to delete all appointments
+    from this day? Click "yes" if so. Otherwise, you may pick individual appointments</string>
+
+</resources>
